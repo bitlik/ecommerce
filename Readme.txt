@@ -1,5 +1,6 @@
-E-comerce website
-Bhargavi Joshi, Harsh Gupta, Veer Vikram Chauhan, Jyoti Singh
+E-comerce website by
+Veer Vikram Singh Chauhan
+on J2EE
 
 www.Kuchbhi.com
 Step:1) Extract the tarball in any location.
